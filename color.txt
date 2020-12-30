@@ -1,0 +1,24 @@
+Primary = #3498db
+
+Secondary = rgb(235, 235, 235)
+
+Black = #34495e
+
+White = 252, 252, 252
+
+
+s.button hover = #1267a1
+
+
+
+
+News Categories :
+
+News
+Release Notes
+Esport
+Strategy
+Community
+Radio Royale
+Esport
+Comic

@@ -1,0 +1,24 @@
+// Import Necessary Files
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+
+
+// Begin Customization
+
+
+$primary : #3498db;
+$secondary : rgb(235, 235, 235);
+
+$theme-colors: (
+    primary: red
+);
+
+
+
+// End Customization
+
+
+
+// Finally, Import Bootstrap to set the changes
+
+@import "bootstrap/scss/bootstrap";

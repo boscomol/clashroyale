@@ -1,0 +1,76 @@
+
+
+/* Phone Screen */
+
+@media screen and (max-width: 1119px) {
+
+
+
+
+}
+
+
+@media screen and (max-width: 991px) {
+
+	.my-navbar {
+		background-color: #3498db;
+	}
+
+	.navbar-nav {
+		margin-left: 0;
+	}
+
+	.dropdown-menu li:hover .sub-menu {
+	  visibility: hidden;
+	}
+
+	.dropdown-menu {
+		background-color: transparent;
+		border: none;
+	}
+
+	.dropdown-item {
+		color: rgb(235, 235, 235);
+	}
+
+	.dropdown-item:hover {
+		background-color: transparent;
+		color: rgb(235, 235, 235);
+	}
+
+	.sp {
+		margin-top: 20px;
+		margin-left: -30px;
+	}
+
+
+
+	/*News*/
+	.content .card {
+		margin-bottom: 50px;
+	}
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+	.jumbotron-content {
+		padding: 165px 0;
+	}
+
+	.jumbotron-text .display-4 {
+		font-family: 'CRoyale';
+	}
+
+	.jumbotron-text .lead {
+		font-size: 15px;
+	}
+
+
+}

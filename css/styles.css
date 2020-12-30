@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url(assets/Poppins.ttf);
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url(assets/Quicksand.otf);
+}
+
+body {
+  font-family: 'Quicksand', 'sans-serif';
+}
+/*# sourceMappingURL=styles.css.map */
